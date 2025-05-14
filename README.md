@@ -25,8 +25,8 @@ Challenges are organized into folders by category (e.g., `web`, `crypto`, `foren
 ## ✅ Completed Challenges
 
 ### 🕸️ Web Exploitation
-- [SSTI1](WebExploitation/SSTI1.md) – Server-Side Template Injection using Jinja2
-
+- [SSTI1](WebExploitation/SSTI1.md)
+- [n0s4n1ty 1](WebExploitation/n0s4n1ty 1.md)
 <!-- Add more links as you go -->
 
 ---
