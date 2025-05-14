@@ -10,8 +10,7 @@ These write-ups are written in Markdown, organized by category, and meant to be 
 
 Challenges are organized into folders by category (e.g., `web`, `crypto`, `forensics`). Each file contains:
 
-- Title
-- Author
+- Title and Author
 - Category
 - Challenge Description 
 - Initial Observations
