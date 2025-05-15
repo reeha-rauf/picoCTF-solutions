@@ -28,6 +28,7 @@ Challenges are organized into folders by category (e.g., `web`, `crypto`, `foren
 - [n0s4n1ty 1](WebExploitation/n0s4n1ty1.md)
 - [head-dump](WebExploitation/head-dump.md)
 - [Cookie Monster's Secret Recipe](WebExploitation/CookieMonster'sSecretRecipe.md)
+- [WebDecode](WebExploitation/WebDecode.md)
 <!-- Add more links as you go -->
 
 ---
