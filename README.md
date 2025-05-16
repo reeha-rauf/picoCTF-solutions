@@ -1,6 +1,6 @@
 # picoCTF Solutions 🛡️
 
-Welcome to my collection of write-ups for picoCTF challenges. This repository documents how I approached, solved, and reflected on each challenge — with a focus on learning and clear explanations.
+Welcome to my collection of write-ups for [picoCTF](https://picoctf.org/) challenges. This repository documents how I approached, solved, and reflected on each challenge — with a focus on learning and clear explanations.
 
 These write-ups are written in Markdown, organized by category, and meant to be helpful to others learning cybersecurity and Capture The Flag (CTF) techniques, while also furthering my own skills and knowledge.
 
@@ -29,6 +29,7 @@ Challenges are organized into folders by category (e.g., `web`, `crypto`, `foren
 - [head-dump](WebExploitation/head-dump.md)
 - [Cookie Monster's Secret Recipe](WebExploitation/CookieMonster'sSecretRecipe.md)
 - [WebDecode](WebExploitation/WebDecode.md)
+- [Unminify](WebExploitation/Unminify.md)
 <!-- Add more links as you go -->
 
 ---
