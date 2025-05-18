@@ -30,6 +30,7 @@ Challenges are organized into folders by category (e.g., `web`, `crypto`, `foren
 - [Cookie Monster's Secret Recipe](WebExploitation/CookieMonster'sSecretRecipe.md)
 - [WebDecode](WebExploitation/WebDecode.md)
 - [Unminify](WebExploitation/Unminify.md)
+- [IntroToBurp](WebExploitation/IntroToBurp.md)
 <!-- Add more links as you go -->
 
 ---
