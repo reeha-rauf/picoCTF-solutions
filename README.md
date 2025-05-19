@@ -34,6 +34,7 @@ Challenges are organized into folders by category (e.g., `web`, `crypto`, `foren
 - [Bookmarklet](WebExploitation/Bookmarklet.md)
 - [Local Authority](WebExploitation/LocalAuthority.md)
 - [Inspect HTML](WebExploitation/InspectHTML.md)
+- [Includes](WebExploitation/Includes.md)
 <!-- Add more links as you go -->
 
 ---
