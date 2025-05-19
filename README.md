@@ -31,6 +31,7 @@ Challenges are organized into folders by category (e.g., `web`, `crypto`, `foren
 - [WebDecode](WebExploitation/WebDecode.md)
 - [Unminify](WebExploitation/Unminify.md)
 - [IntroToBurp](WebExploitation/IntroToBurp.md)
+- [Bookmarklet](WebExploitation/Bookmarklet.md)
 <!-- Add more links as you go -->
 
 ---
