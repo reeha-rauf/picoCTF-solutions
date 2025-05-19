@@ -33,6 +33,7 @@ Challenges are organized into folders by category (e.g., `web`, `crypto`, `foren
 - [IntroToBurp](WebExploitation/IntroToBurp.md)
 - [Bookmarklet](WebExploitation/Bookmarklet.md)
 - [Local Authority](WebExploitation/LocalAuthority.md)
+- [Inspect HTML](WebExploitation/InspectHTML.md)
 <!-- Add more links as you go -->
 
 ---
